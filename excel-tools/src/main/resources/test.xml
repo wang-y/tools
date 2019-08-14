@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <file path="/Users/WangSir/Documents/test.xlsx">
+        <sheet index="0">
+            <title index="0">
+                <column value="姓名" property="name" nullable="false" unique="true"/>
+                <column value="密码" property="password"/>
+                <column value="年龄" property="age"/>
+                <column value="性别" property="sex"/>
+                <column value="信息" property="info"/>
+                <column value="生日" property="birthday"/>
+            </title>
+        </sheet>
+    </file>
+</root>
