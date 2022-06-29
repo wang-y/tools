@@ -12,7 +12,7 @@
     <artifactId>excel-tools</artifactId>
 
     <properties>
-        <poi.version>4.1.0</poi.version>
+        <poi.version>4.1.1</poi.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <encoding>UTF-8</encoding>
         <java.version>1.8</java.version>
